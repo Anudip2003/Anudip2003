@@ -7,10 +7,11 @@
 
 <!-- GitHub Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.anudip2003.com/anudip2003/anudip2003/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://anudip2003.github.io/snk/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.anudip2003.com/anudip2003/anudip2003/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="/images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/images/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="/images/github-snake.svg" />
 </picture>
+
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Anudip2003&show_icons=true&theme=dark" alt="Your GitHub Stats" />
