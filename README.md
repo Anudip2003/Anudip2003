@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Anudip, an Engineering Student at VIIT College, Pune 👋🏼:
 🛜 Currently pursuing a degree with a specialization in Data Science and Artificial Intelligence
 
@@ -9,9 +7,9 @@
 
 <!-- GitHub Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.anudip2003.com/anudip2003/anudip2003/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://anudip2003.github.io/snk/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.anudip2003.com/anudip2003/anudip2003/output/github-snake.svg" />
 </picture>
 
 <!-- GitHub Stats -->
