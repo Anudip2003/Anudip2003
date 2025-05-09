@@ -51,7 +51,7 @@
 ## 🌐 Connect with Me
 
 <p align="left" style="display: flex; align-items: center; justify-content: flex-start; gap: 200px; width: 100%;">
-  <a href="https://linkedin.com/in/anudip%20baviskar" target="_blank">
+  <a href="https://www.linkedin.com/in/anudip-baviskar-365a77251/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://www.hackerrank.com/anudip%20baviskar" target="_blank">
@@ -60,7 +60,7 @@
   <a href="https://www.leetcode.com/anudip22kar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/anudip22ttk5" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/anudip22kar2003" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="30" height="30" />
   </a>
 </p>
