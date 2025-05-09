@@ -60,7 +60,7 @@
   <a href="https://www.hackerrank.com/anudip22kar2003" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30" />
   </a>
-  <a href="https://www.instagram.com/anudip_2003" target="_blank">
+  <a href="https://www.instagram.com/anudipbaviskar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
 </p>
