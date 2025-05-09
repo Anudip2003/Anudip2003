@@ -60,7 +60,7 @@
   <a href="https://www.leetcode.com/anudip22kar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/anudip22kar2003" target="_blank">
+  <a href="https://www.hackerrank.com/profile/anudip22kar2003" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="30" height="30" />
   </a>
 </p>
