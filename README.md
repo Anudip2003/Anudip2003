@@ -97,4 +97,4 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/anudip2003/anudip2003/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Anudip2003/Anudip2003/output/snake.svg)
